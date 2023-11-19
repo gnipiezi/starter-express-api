@@ -1,0 +1,141 @@
+[
+
+    {
+        "Article": "Béton ordinaire",
+        "Avantages": "Résistance élevée / Variété d'utilisation (Polyvalent) / ",
+        "Inconvénients": "Poids élevé, Fissures (retrait) / Pertes d'énergies (Conductivité élevée) / Nécessité d'entretien / Épuisement des ressources (sables, gravier,...)",
+        "Prix": "70",
+        "Empreinte": "",
+        "Propriétés": "Sable / Gravier / Eau / Adjuvants ",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.gVOMI1Xc1_s6P5wvnYi0SAHaFj&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton fabriqué à base de verre",
+        "Avantages": "Améliorer la durabilité / Réduction des déchets / ",
+        "Inconvénients": "Faible résistance mécanique / Durabilité limitée / Difficulté de manipulation",
+        "Prix": "100",
+        "Empreinte": "",
+        "Propriétés": "Ciment / Agrégats de verre / Eau / Adjuvants",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.vSoexvgvTMM4jwEe0c24ZQHaJH&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton avec granulats recyclés",
+        "Avantages": "Réduction de déchets de construction / Réduction de la demande de matière première / ",
+        "Inconvénients": "Variabilité des propriétés des granulats / Contamination potentielle / ",
+        "Prix": "2100",
+        "Empreinte": "",
+        "Propriétés": "Ciment / Granulats recyclés / Eau / Adjuvants",
+        "Image": "https://tse4.explicit.bing.net/th?id=OIP.XJkSyXKWYqaBJoEUy0n9eAHaE6&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton autoplaçant",
+        "Avantages": "Facilité de mise en place / Accroître la productivité sur chantier / Réduction de main d'oeuvre / Adaptabilité à des formes comlexes / Amélioraton de l'homogénéité ",
+        "Inconvénients": "Nécessité d'une formulation précise",
+        "Prix": "150",
+        "Empreinte": "",
+        "Propriétés": "Ciment / Eau / Arégats / Adjuvant / Poudre minérale ",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.EI3ByVZ9SNEm3MuS1ZUZEwHaE8&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton auto-cicatrisant",
+        "Avantages": "Durabilité / Auto-réparation/ Réduction des coûts de maintenance /  Amélioration de l'étanchéité / Maintien de l'aspect esthétique",
+        "Inconvénients": "Complexité de la formulation / Limite de la cicatrisation / ",
+        "Prix": "150",
+        "Empreinte": "",
+        "Propriétés": "Ciment / Eau / Arégats / Adjuvant",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.21HGB51t-ub-s2n5GFup8QHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Bétons Émettant de la Lumière",
+        "Avantages": "Esthétique / Éclairage de sécurité / Réduction des besoins en éclairage artificiel / Visibilité dans l'obscurité ",
+        "Inconvénients": "Durée de vie limité / Possibles changements de couleur",
+        "Prix": "2000",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.-9s1ldQzta5S7vD2bKnnuwHaHa&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton de chanvre",
+        "Avantages": "Isolant thermique et acoustique / Réugule l'humidité / Recyclable / Résistant au feu / Résistant aux rongeurs ",
+        "Inconvénients": "Matériau non-porteur / Long temps de séchage",
+        "Prix": "200",
+        "Empreinte": "",
+        "Propriétés": "Chènevottes / chaux aérienne /eau",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.4ppkRW45bBak2wN_58m7qwHaEK&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton à base de terre crue",
+        "Avantages": "Isolation thermique / Esthétique",
+        "Inconvénients": "Sensibilité à l'eau / Résistance mécanique limitée / Nécessité d'entretien",
+        "Prix": "180",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.PN0L-BvswegK2y9Jdjq5vQHaE9&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Les Bétons de Fibres Métalliques",
+        "Avantages": "Résistance de la résistance mécanique / Résistance à la fatigue / Amélioration de la durabilité",
+        "Inconvénients": "Oxidation des fibres / Distribution inégale des fibres",
+        "Prix": "120",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.0CwYMrNKo8LGEjfi0CnhggHaE8&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Béton renforcé avec des fibres de carbone",
+        "Avantages": "Durabilité améliorée / Réduction de la consommation des ressources / Réduction de la fissuration / Réduction à la corrosion ",
+        "Inconvénients": "Distribution inégale des fibres",
+        "Prix": "350",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.khNaB6erpWOBQq-l83bncwHaEW&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Le Béton Léger",
+        "Avantages": "Facilité de mise en oeuvre / Isolation thermique et acoustique / Réduction de charges sismiques / Réduction des cou^ts de main d'oeuvre / Moins de fondation de renforcement ",
+        "Inconvénients": "Faible résistance à la compression ",
+        "Prix": "130",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.e-Ni4k2U_KZAz10GjSKZuwHaEj&pid=Api&P=0&h=180"
+    },
+
+    {
+        "Article": "Bois Bamboo",
+        "Avantages": "Legéreté / Esthétique / Flexibilité",
+        "Inconvénients": "Sensibilité à l'himidité / Variabilité de qualité /",
+        "Prix": "150",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse1.mm.bing.net/th?id=OIP.UST8QmklMBTBhaRPruUvygHaEo&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Bois de Chêne",
+        "Avantages": "Durabilité / Esthétique / Facilité de travail",
+        "Inconvénients": "Difficile à manipuler / Nécessité d'entretien",
+        "Prix": "220",
+        "Empreinte Carbone": "",
+        "Propriétés": "",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.191HEFKArpeaDdbe3kgZ0AHaEh&pid=Api&P=0&h=180"
+    },
+
+    {
+        "Article": "Laine de verre",
+        "Avantages": "Isolation thermique / Coût abordable / Légèreté / Ininflammable ",
+        "Inconvénients": "Sensibilité de l'humidité / Sensible à la compression",
+        "Prix": "110",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse4.mm.bing.net/th?id=OIP.GTOsPa3LQy8FYYnY0VOH_wHaFw&pid=Api&P=0&h=180"
+    },
+    {
+        "Article": "Laine de chanvre",
+        "Avantages": "Résistance à la moisissure / Régulateur thermique / Isolation acoustique",
+        "Inconvénients": "Sensibilité à l'humidité / Nécessite une grande épaisseur",
+        "Prix": "370",
+        "Empreinte": "",
+        "Propriétés": "",
+        "Image": "https://tse3.mm.bing.net/th?id=OIP.nmYQMeG3lONGQ18EC2ciawHaE7&pid=Api&P=0&h=180"
+    }
+
+]
